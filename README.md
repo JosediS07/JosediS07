@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/josediego-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:jdsanchezm05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:jdsanchezm05@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=tada&color=%23ef4444)" alt="Gmail" height="40" width="40" /></a>
 <a href="https://github.com/JosediS07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>
 </p>
 
