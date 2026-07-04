@@ -20,7 +20,7 @@
 
 - 👨‍💻 **Todos mis proyectos** en [github.com/JosediS07](https://github.com/JosediS07)
 
-- 📫 **Contacto** jdsanchezm05@gmail.com | +34 722 151 977
+- 📫 **Contacto** jdsanchezm05@gmail.com
 
 ---
 
@@ -65,48 +65,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
 </p>
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosediS07&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" />
-</p>
-
----
-
-## 🎓 Formación
-
-- **Grado Superior DAM** (Desarrollo de Aplicaciones Multiplataforma) — 2024–2026
-  - Java · JavaScript · React · SQL · Android Studio
-
-- **Grado Medio SMR** (Sistemas Microinformáticos y Redes) — 2022–2024
-  - Infraestructura de red · Mantenimiento de sistemas · Soporte técnico
-
----
-
-## 💼 Experiencia
-
-### Desarrollador Full-Stack (FCT) — Academia de Robótica
-**Ene 2026 – Abr 2026**
-- Desarrollo en equipo (4 personas) de app web con React para gestión de academia
-- Funcionalidades: mensajería, control de asistencia, inventario, admin de alumnos
-- **Estado:** Desplegada y en uso real en producción
-
-### Técnico de Sistemas & Desarrollador (FCT) — Iberitos
-**Mar 2024 – Jun 2024**
-- App de control de visitas a fábrica y gestión de inventario
-- Mantenimiento de infraestructura de red e impresoras en entorno industrial
-
----
-
-## 🌐 Idiomas
-
-- **Español:** Nativo
-- **Inglés:** B2
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Extremadura-EA4C89?style=flat-square" alt="Made in Extremadura">
