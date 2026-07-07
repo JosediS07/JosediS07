@@ -1,5 +1,5 @@
 <h1 align="center">👋 José Diego Sánchez Moro</h1>
-<h3 align="center">Desarrollador Backend Junior | Java • Spring Boot • SQL</h3>
+<h3 align="center">Desarrollador Backend Junior | Java • Spring Boot • PostgreSQL</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status">
@@ -15,7 +15,7 @@
 👨‍💻 &nbsp;Desarrollador de software con doble formación en SMR y DAM, orientado a backend con Java y Spring Boot.\
 🚀 &nbsp;Experiencia real en empresa a través de FCT, con proyectos funcionales en producción.\
 ⚙️ &nbsp;Actualmente desarrollando **Nidus**, una API REST con Spring Boot, JWT y persistencia con JPA/Hibernate.\
-🌐 &nbsp;Stack: Java · Spring Boot · JavaScript · React · SQL.\
+🌐 &nbsp;Stack: Java · Spring Boot · JavaScript · React · PostgreSQL.\
 📫 &nbsp;Abierto a oportunidades presenciales, híbridas o remotas.
  
 <div align="center"> </div>
